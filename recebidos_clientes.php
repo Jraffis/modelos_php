@@ -10,7 +10,7 @@
     </head>
     <body>
         <div class="container">
-            <h1>Cadatros Recebidos</h1>
+            <h1>Cadatros - Recebidos</h1>
             <p><b>Nome: <?php echo $_GET["bt_nome"]; ?></b></p>
             <p><b>Endereço: <?php echo $_GET["bt_endereco"]; ?></b></p>
             <p><b>Estado: <?php echo $_GET["bt_estado"]; ?></b></p>
