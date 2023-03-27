@@ -16,20 +16,24 @@
         <div class="container">
             <form action="recebidos_clientes.php" method="get">
                 <div class="mb-3">
-                    <label for="">Nome: </label>
-                    <input type="text">
+                    <label for="bt_nome"><b>Nome: </b></label>
+                    <input type="text" name="bt_nome">
                 </div>
                 <div class="mb-3">
-                    <label for="">Endereço: </label>
-                    <input type="text">
+                    <label for="bt_endereco"><b>Endereço: </b></label>
+                    <input type="text" name="bt_endereco">
                 </div>
                 <div class="mb-3">
-                    <label for="">Estado: </label>
-                    <input type="text">
+                    <label for=""><b>Estado: </b></label>
+                    <input type="text" name="bt_estado">
                 </div>
                 <div class="mb-3">
-                    <label for="">País: </label>
-                    <input type="text">
+                    <label for=""><b>Cidade: </b></label>
+                    <input type="text" name="bt_cidade">
+                </div>
+                <div class="mb-3">
+                    <label for=""><b>País: </b></label>
+                    <input type="text"name="bt_pais">
                 </div>
                 <div class="mb-3">
                     <input type="submit" class="btn btn-success">
