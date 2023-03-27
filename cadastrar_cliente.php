@@ -34,7 +34,6 @@
                 <div class="mb-3">
                     <input type="submit" class="btn btn-success">
                     <button type="button" class="btn btn-danger">Cancelar</button>
-
                 </div>
             </form>
         </div>
