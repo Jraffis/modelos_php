@@ -24,15 +24,15 @@
                     <input type="text" name="bt_endereco">
                 </div>
                 <div class="mb-3">
-                    <label for=""><b>Estado: </b></label>
+                    <label for="bt_estado"><b>Estado: </b></label>
                     <input type="text" name="bt_estado">
                 </div>
                 <div class="mb-3">
-                    <label for=""><b>Cidade: </b></label>
+                    <label for="bt_cidade"><b>Cidade: </b></label>
                     <input type="text" name="bt_cidade">
                 </div>
                 <div class="mb-3">
-                    <label for=""><b>País: </b></label>
+                    <label for="bt_pais"><b>País: </b></label>
                     <input type="text"name="bt_pais">
                 </div>
                 <div class="mb-3">
